@@ -1,0 +1,1 @@
+This project implements a Sudoku solver using the backtracking algorithm. It takes an incomplete Sudoku puzzle as input and attempts to find the solution by filling in the missing numbers while adhering to Sudoku rules.
